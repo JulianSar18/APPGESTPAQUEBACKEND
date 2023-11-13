@@ -2,7 +2,7 @@
 ## Descripcion
 Este proyecto tiene como finalidad gestionar la entrega de paquetes para la empresa de Transporte S.A.S, podra getionar las empresas que contrata, gestionar la entrada de los vehiculos y la entrega de los paquetes; para finalmente calcular el valor que se debe pagar a cada empresa que haya contratado segun su configuracion de comisiones
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/JulianSar18/APPGESTPAQUEFRONT)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/JulianSar18/APPGESTPAQUEBACKEND)
 
 
 ## ARQUITECTURA
